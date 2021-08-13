@@ -6,8 +6,6 @@ A powerful multi-featured chat application built on top of Google's Android &amp
 ## Instructions to run
 
 * Pre-requisites:
-	-  Android Studio v4.0+
-	-  A working Android physical device or emulator with USB debugging enabled
 	-  Node.js
 	-  NPM
 
@@ -25,7 +23,6 @@ A powerful multi-featured chat application built on top of Google's Android &amp
   ```bash
   $ npm i
 	``` 
-`
   
 * Directions to execute [For Backend]
   -   Execute the following from CMD:
