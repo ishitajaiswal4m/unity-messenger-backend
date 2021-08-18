@@ -8,9 +8,8 @@ A powerful multi-featured chat application built on top of Google's Android &amp
 * Pre-requisites:
 	-  Node.js
 	-  NPM
-
-
 	```
+    
 * Directions to setup/install [For Backend]
   - Clone this repository using the previously mentioned instructions
   - From CMD, execute the following:
